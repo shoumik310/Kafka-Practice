@@ -1,2 +1,4 @@
-./kafka-data/
-./zookeeper-data/
+./kafka1/*
+./kafka2/*
+./kafka3/*
+./zookeeper/*

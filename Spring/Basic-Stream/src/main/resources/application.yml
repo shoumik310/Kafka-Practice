@@ -1,0 +1,14 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9091
+    consumer:
+      group-id: myGroup
+  output:
+    ansi:
+      enabled: ALWAYS
+
+#debug: true
+
+logging:
+  level: 
+    root: INFO
